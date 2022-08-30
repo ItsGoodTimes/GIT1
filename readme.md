@@ -1,3 +1,3 @@
-<h3>Hello!</h3>
-</br>
-<p>Introducing you to how to use git, basically.</p>
+<h3>Greeting Visitors</h3>
+</hr>
+<p>I would like to introducing you a new version of readme.md</p>
